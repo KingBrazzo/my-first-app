@@ -27,6 +27,7 @@ const menuItems = [
       { label: "Consulting", href: "/services/consulting" },
     ]
   },
+  { label: "Blog", href: "/blog" },
   { label: "Contact", href: "/contact" },
 ]
 
